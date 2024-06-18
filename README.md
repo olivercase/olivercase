@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @olivercase
-- 👀 I’m interested in Neuoscience and helping the world :) 
+-  Hi, I’m @olivercase. I’m interested in Neuoscience and helping the world :) 
 - 🌱 I’m currently learning ML models, baysian and Active Infernce. 
-- 💞️ I’m looking to collaborate on any Neuo related pro
 - 😄 Pronouns: he/him
 
 
